@@ -11,7 +11,7 @@ let package = Package(
             name: "swift-package-monitored-by-dependabot",
             targets: ["swift-package-monitored-by-dependabot"]),
     ],
-    dependencies: [.package(url: "https://github.com/MarcoEidinger/DummySwiftPackage.git", .upToNextMajor(from: "1.0.0")),
+    dependencies: [.package(url: "git@github.com:MarcoEidinger/DummySwiftPackage.git", .upToNextMajor(from: "1.0.0")),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

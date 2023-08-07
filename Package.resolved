@@ -3,10 +3,10 @@
     {
       "identity" : "dummyswiftpackage",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:MarcoEidinger/DummySwiftPackage.git",
+      "location" : "https://github.com/MarcoEidinger/DummySwiftPackage.git",
       "state" : {
-        "revision" : "039d607a58040dc8ef3c4e065b4cecfc3d7f95f4",
-        "version" : "1.0.0"
+        "revision" : "1fd0a50ab835eca1b6ad4ca89a6aa87e6ab02176",
+        "version" : "2.0.0"
       }
     }
   ],
